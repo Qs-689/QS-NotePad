@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>通用</item>
+        <item>工作</item>
+        <item>个人</item>
+        <item>想法</item>
+    </string-array>
+</resources>

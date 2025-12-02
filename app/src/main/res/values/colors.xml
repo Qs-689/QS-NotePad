@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 主色调 -->
+    <color name="primary_color">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent_color">#FF4081</color>
+    <color name="accent_light">#F8BBD9</color>
+
+    <!-- 浅色主题颜色 -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="card_light">#FFFFFF</color>
+    <color name="text_primary_light">#212121</color>
+    <color name="text_secondary_light">#757575</color>
+    <color name="divider_light">#E0E0E0</color>
+    <color name="icon_light">#757575</color>
+
+    <!-- 优化的深色主题颜色 -->
+    <color name="background_dark">#121212</color>          <!-- 深灰背景 -->
+    <color name="surface_dark">#1E1E1E</color>             <!-- 卡片背景 -->
+    <color name="card_dark">#252525</color>                 <!-- 卡片颜色 -->
+    <color name="text_primary_dark">#E0E0E0</color>        <!-- 主要文字 -->
+    <color name="text_secondary_dark">#A0A0A0</color>      <!-- 次要文字 -->
+    <color name="divider_dark">#373737</color>             <!-- 分割线 -->
+    <color name="icon_dark">#B0B0B0</color>                <!-- 图标颜色 -->
+
+    <!-- 彩色主题颜色 -->
+    <color name="background_colorful">#FFF3E0</color>      <!-- 暖橙色背景 -->
+    <color name="surface_colorful">#FFE0B2</color>        <!-- 浅橙色表面 -->
+    <color name="primary_colorful">#FF9800</color>         <!-- 鲜艳橙色 -->
+    <color name="accent_colorful">#E65100</color>          <!-- 深橙色强调色 -->
+    <color name="text_primary_colorful">#5D4037</color>     <!-- 深棕色文字 -->
+    <color name="text_secondary_colorful">#8D6E63</color>  <!-- 中等棕色文字 -->
+    <color name="divider_colorful">#FFCC80</color>         <!-- 浅橙色分割线 -->
+
+    <!-- 分类标签颜色（彩色主题专用） -->
+    <color name="category_work_colorful">#4CAF50</color>    <!-- 绿色 -->
+    <color name="category_personal_colorful">#2196F3</color> <!-- 蓝色 -->
+    <color name="category_ideas_colorful">#9C27B0</color>   <!-- 紫色 -->
+    <color name="category_general_colorful">#FF9800</color> <!-- 橙色 -->
+</resources>

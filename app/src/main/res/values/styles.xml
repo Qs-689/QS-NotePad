@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 浅色主题 -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/ActionBarStyle.Light</item>
+        <item name="android:windowBackground">@color/background_light</item>
+        <item name="android:textColorPrimary">@color/text_primary_light</item>
+        <item name="android:textColorSecondary">@color/text_secondary_light</item>
+        <item name="android:divider">@color/divider_light</item>
+    </style>
+
+    <!-- 优化的深色主题 -->
+    <style name="AppTheme.Dark" parent="android:Theme.Holo">
+        <item name="android:actionBarStyle">@style/ActionBarStyle.Dark</item>
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="android:textColorPrimary">@color/text_primary_dark</item>
+        <item name="android:textColorSecondary">@color/text_secondary_dark</item>
+        <item name="android:divider">@color/divider_dark</item>
+        <item name="android:listViewStyle">@style/ListViewStyle.Dark</item>
+        <item name="android:textViewStyle">@style/TextViewStyle.Dark</item>
+    </style>
+
+    <!-- 彩色主题 -->
+    <style name="AppTheme.Colorful" parent="android:Theme.Holo.Light">
+        <item name="android:windowBackground">@color/background_colorful</item>
+        <item name="android:colorBackground">@color/background_colorful</item>
+        <item name="android:textColorPrimary">@color/text_primary_colorful</item>
+        <item name="android:textColorSecondary">@color/text_secondary_colorful</item>
+        <item name="android:actionBarStyle">@style/ActionBarStyle.Colorful</item>
+        <item name="android:listViewStyle">@style/ListViewStyle.Colorful</item>
+    </style>
+
+    <style name="ActionBarStyle.Colorful" parent="android:Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/primary_colorful</item>
+        <item name="android:titleTextStyle">@style/ActionBarTitleStyle.Colorful</item>
+    </style>
+
+    <style name="ActionBarTitleStyle.Colorful" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- 彩色主题列表样式 -->
+    <style name="ListViewStyle.Colorful" parent="android:Widget.Holo.ListView">
+        <item name="android:background">@color/background_colorful</item>
+        <item name="android:cacheColorHint">@color/background_colorful</item>
+    </style>
+
+    <!-- 浅色ActionBar -->
+    <style name="ActionBarStyle.Light" parent="android:Widget.Holo.Light.ActionBar">
+        <item name="android:titleTextStyle">@style/ActionBarTitle.Light</item>
+        <item name="android:background">@color/primary_color</item>
+        <item name="android:height">56dp</item>
+    </style>
+
+    <!-- 深色ActionBar -->
+    <style name="ActionBarStyle.Dark" parent="android:Widget.Holo.ActionBar">
+        <item name="android:titleTextStyle">@style/ActionBarTitle.Dark</item>
+        <item name="android:background">@color/primary_dark</item>
+        <item name="android:height">56dp</item>
+    </style>
+
+    <!-- 标题样式 -->
+    <style name="ActionBarTitle.Light" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="ActionBarTitle.Dark" parent="android:TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- 深色列表样式 -->
+    <style name="ListViewStyle.Dark" parent="android:Widget.Holo.ListView">
+        <item name="android:background">@color/background_dark</item>
+        <item name="android:divider">@color/divider_dark</item>
+        <item name="android:cacheColorHint">@color/background_dark</item>
+    </style>
+
+    <!-- 深色文本样式 -->
+    <style name="TextViewStyle.Dark" parent="android:Widget.Holo.TextView">
+        <item name="android:textColor">@color/text_primary_dark</item>
+    </style>
+</resources>
