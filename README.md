@@ -894,29 +894,29 @@ public class NotesList extends ListActivity {
 
 ### 4. 实现效果界面截图
 #### 4.1 浅色主题效果
-<img width="1080" height="2400" alt="Screenshot_20251126_105212" src="https://github.com/user-attachments/assets/2fa98ba1-7ba4-461d-946f-52a99d50ed1b" />
-
-#### 4.1.1 浅色主题搜索效果
-<img width="1080" height="2400" alt="Screenshot_20251126_105327" src="https://github.com/user-attachments/assets/8a088d43-be3e-4f27-9137-a90f1b2eada8" />
-
-#### 4.1.2 主题切换
-![retouch_2025112611292314(1)](https://github.com/user-attachments/assets/0903aa87-acc5-4211-bf7a-838a73b39d8c)
+![retouch_2025120214431594](https://github.com/user-attachments/assets/8201ffac-ce87-4a03-9219-bfb5b2d8283a)
 
 
 #### 4.2 深色主题效果
-<img width="1080" height="2400" alt="Screenshot_20251126_105155" src="https://github.com/user-attachments/assets/97952ddb-35b3-4e04-86a0-9866bb2a543b" />
+![retouch_2025120214432576](https://github.com/user-attachments/assets/9dd87869-fd4e-4e10-9aba-b4c6c4df8ba7)
 
-#### 4.2.1 深色主题搜索效果
-<img width="1080" height="2400" alt="Screenshot_20251126_105413" src="https://github.com/user-attachments/assets/41c827cd-d5c9-4b9c-86e7-2b2972472ec5" />
 
-#### 4.3 编辑笔记调整字体效果
+#### 4.3 彩色主题效果
+![retouch_2025120214434485](https://github.com/user-attachments/assets/694b1242-5685-4a50-a3d7-5660b17ed763)
+
+
+#### 4.4 主题切换
+![retouch_2025120214481449](https://github.com/user-attachments/assets/6fbccee3-befa-4ae3-9722-a610f024db63)
+
+![retouch_2025120214484374](https://github.com/user-attachments/assets/6dbf28c6-3557-4a23-905d-d55f8e971ed0)
+
+#### 4.5 编辑笔记调整字体效果
 ![retouch_2025112611005645(1)](https://github.com/user-attachments/assets/50475f04-6f85-4cae-af4f-0d1cbb375221)
 
-#### 4.3.1 分别点击大/中/小号字体
+#### 4.5.1 分别点击大/中/小号字体
 ![retouch_2025112611032444(1)](https://github.com/user-attachments/assets/fda10e3a-3249-4a83-ac1e-ec5d46e6ce6b)
 
-#### 4.4 美化前后对比
-![retouch_2025112611142380](https://github.com/user-attachments/assets/67474203-c626-4e25-a3c6-8bbea3446b96)
+
 
 
 
